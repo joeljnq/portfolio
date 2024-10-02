@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    color-scheme: light dark;
+    font-family: 'Onest';
+    font-size: 18px;
+    position: relative;
+}
+
+
+@font-face {
+    font-family: 'Onest';
+    src: url('./fonts/Onest/Onest-VariableFont_wght.ttf') format('truetype');
+}
