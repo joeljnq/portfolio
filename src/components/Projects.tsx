@@ -67,7 +67,7 @@ const Projects: React.FC = () => {
       title: "Fake Store",
       description:
         "e-commerce que consume una api de productos y permite añadirlos al carrito, ver detalles y realizar la compra.",
-      link: "https://warm-caramel-dd317c.netlify.app/",
+      link: "https://fake-store-eosin-tau.vercel.app/",
       github: "https://github.com/joeljnq/fake-store",
       image: fakeStore,
       tags: ["React", "TypeScript", "CSS"],
